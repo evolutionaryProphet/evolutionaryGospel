@@ -24,7 +24,7 @@ export const LandingPage = () => {
     useEffect(() => {
         setShowSummary(false)
         axios({
-            url: '/gospel/gospel_' + lang + '.md', //your url
+            url: '/gospel/gospel_' + lang.slice(0, 2) + '.md', //your url
             method: 'GET',
             responseType: 'blob', // important
         }).then((response) => {
