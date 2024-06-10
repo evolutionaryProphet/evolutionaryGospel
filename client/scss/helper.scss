@@ -1,0 +1,181 @@
+body {
+    touch-action: manipulation;
+}
+
+.rc-anchor,
+.rc-anchor *,
+.grecaptcha-badge {
+
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+// POSITIONNEMENT
+.no-margin {
+    margin: 0 !important;
+}
+
+.small-margin {
+    margin: 5px !important;
+}
+
+.small-padding {
+    padding: 10px !important;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.padding-l-r {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+}
+
+.full-height {
+
+    height: 100% !important;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.flex {
+    display: flex !important;
+}
+
+.flex-auto {
+    flex: 1 !important;
+}
+
+.flex-middle {
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+input::placeholder {
+
+    color: rgba(grey, 0.5);
+    opacity: 1;
+    /* Firefox */
+}
+
+.btn-floating {
+    i {
+        color: white
+    }
+}
+
+.elipsis {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.shadow {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+
+}
+
+.justify-center {
+    justify-content: center !important;
+}
+
+
+.bird-background-light {
+    background-image: url("/assets/img/trame/empty_birds_bg_light.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.bird-background-dark {
+    background-image: url("/assets/img/trame/empty_birds_bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+//textStyles
+
+.rounded {
+    border-radius: 10px;
+}
+
+
+.btn {
+    font-family: -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen-Sans,
+        Ubuntu,
+        Cantarell,
+        "Helvetica Neue",
+        sans-serif;
+}
+
+
+
+
+
+
+.shadow {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+
+}
+
+.small-shadow {
+    -webkit-box-shadow: 2px 2px 6px -1px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 2px 2px 6px -1px rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 2px 6px -1px rgba(0, 0, 0, 0.15);
+
+}
+
+.btnFocus:hover,
+.btnFocus:focus {
+    opacity: 1 !important;
+    padding: 2px 30px;
+    margin: -2px;
+    height: 41px;
+}
+
+.hr {
+    width: 100%;
+    height: 10px;
+    content: ' ';
+    margin: 10px 0;
+    background-image: url("/assets/img/trame/hr.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    opacity: 0.6;
+}
+
+.blurBottom,
+.blurTop {
+    position: absolute;
+    height: 20px;
+    width: 100%;
+
+}
+
+.blurTop {
+    z-index: 200;
+}

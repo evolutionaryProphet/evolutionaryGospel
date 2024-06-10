@@ -1,0 +1,43 @@
+@import '../helpers/colors.scss';
+
+
+.slider-menu {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000 !important;
+    width: 60px;
+    height: 60px;
+
+
+    #slide-out {
+        z-index: 1000 !important;
+        background-color: $main-bg;
+    }
+
+    .margintop {
+        margin: 0 !important;
+    }
+
+    .show-menu-btn {
+        display: block;
+        transition: 0.3s ease-out;
+        position: relative;
+        width: 50px;
+        height: 50px;
+
+        .material-icons {
+            color: $main-bg !important;
+            margin: -5px 0px;
+            opacity: 0.8;
+        }
+
+
+
+
+
+    }
+
+
+}

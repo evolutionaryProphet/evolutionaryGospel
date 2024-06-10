@@ -1,0 +1,278 @@
+@import './helpers/colors.scss';
+
+@font-face {
+    font-family: Illuminate;
+    src: url("/GoudyInitialen.ttf");
+}
+
+@font-face {
+    font-family: Number;
+    src: url("/MayflowerAntique.ttf");
+}
+
+.mobile {
+    .siteTitle {
+        position: relative;
+        color: $main-color;
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        font-size: 2.5em;
+    }
+
+    .logoTitle {
+        margin: 5px;
+        width: 70px;
+    }
+
+    .mainContent {
+        background-color: $main-bg;
+        width: 100vw !important;
+        overflow: hidden !important;
+    }
+
+
+
+    body,
+    html {
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .gospel {
+        padding-bottom: 500px !important;
+        height: calc(100vh - 64px);
+        overflow-y: scroll;
+    }
+
+    .gospel,
+    .modal {
+        * {
+            color: $main-color;
+        }
+
+        overflow-x: hidden;
+
+        h1 strong {
+            font-family: Illuminate;
+            font-size: 4em;
+            line-height: 1em;
+            display: inline-block;
+            position: relative;
+            top: 50px;
+        }
+
+        h1 strong::after {
+            content: '';
+            position: absolute;
+            bottom: 45px;
+
+            left: 120px;
+            width: 9000px;
+            border-bottom: 15px solid $focus-color;
+        }
+
+        h2 strong {
+            font-family: number;
+            font-size: 4em;
+            line-height: 1em;
+            display: inline-block;
+
+            margin-right: 0px;
+            position: relative;
+            color: $focus-color;
+            top: 20px
+        }
+
+        h1 {
+
+            font-size: 2.5em;
+            font-family: 'Unbounded', sans-serif;
+            line-height: 2.5em;
+            margin-top: 0 !important;
+            margin-bottom: 20px !important;
+        }
+
+        h2 {
+            padding-top: 0px;
+            font-size: 1.6em;
+            line-height: 1.5em;
+            margin: 0 -10px;
+            font-family: 'Unbounded', sans-serif;
+        }
+
+        ol {
+            padding-left: 10px !important;
+        }
+
+        ul {
+            list-style-type: armenian !important;
+        }
+
+        hr {
+            display: none;
+        }
+
+        li,
+        p {
+            font-size: 1.2em !important;
+            text-align: justify;
+            margin-bottom: 7px;
+        }
+    }
+
+    .langSelector {
+        width: 70px;
+        display: inline-block;
+
+        li {
+
+            background-color: $main-bg !important;
+
+
+        }
+
+        input,
+        span {
+
+            color: $main-color;
+
+        }
+
+        .input-field {
+            margin: 0;
+        }
+
+        .caret {
+
+            fill: $main-color !important;
+
+        }
+    }
+
+    nav {
+        background-color: $main-color;
+        color: $main-bg;
+
+        .langSelector {
+            position: fixed;
+            right: 10px !important;
+
+            top: 10px;
+            background-color: $main-color !important;
+            color: $main-bg !important;
+
+
+        }
+    }
+
+    .select-dropdown {
+        width: 20px !important;
+        margin-right: 30px !important;
+    }
+
+    .caret {
+        fill: $main-bg !important;
+    }
+
+    #nav *,
+    .dropdown-content * {
+        background-color: $main-color !important;
+        color: $main-bg !important;
+    }
+
+    /* ===== Scrollbar CSS ===== */
+    /* Firefox */
+
+    /* Chrome, Edge, and Safari */
+    .gospel::-webkit-scrollbar {
+        width: 18px;
+    }
+
+    *::-webkit-scrollbar {
+        width: 14px;
+    }
+
+    *::-webkit-scrollbar-track {
+        background: $main-bg;
+    }
+
+    *::-webkit-scrollbar-thumb {
+        background-color: rgba($lighter-bg, 0.3);
+        border-radius: 10px;
+        height: 100px !important;
+        border: 3px solid $main-bg;
+    }
+
+    .gospel::-webkit-scrollbar-thumb {
+        background-color: rgba($focus-color, 0.5);
+        border-radius: 10px;
+        height: 100px !important;
+        border: 3px solid $main-bg;
+    }
+
+    .Summary-content {
+        background-color: $main-bg;
+
+        .logoTitle {
+            text-align: center;
+            margin: 30px 115px 20px 115px !important;
+        }
+
+
+        .summaryTitle,
+        .subtitle {
+            padding: 4px 20px 4px 4px !important;
+            display: block;
+            font-size: 1.1em !important;
+            border-left: 0px solid $focus-color;
+            transition: 0.3s 0.15s;
+
+
+            color: $main-color !important;
+
+
+            &.active {
+                color: $main-bg !important;
+                padding: 20px 15px !important;
+                background-color: $main-color !important;
+                border-left: 15px solid $focus-color;
+                font-size: 1.3em !important;
+                opacity: 1 !important;
+            }
+
+        }
+
+        .summaryTitle {
+            color: $main-color !important;
+        }
+
+        .subtitle {
+
+            margin-left: 15px;
+            font-style: italic;
+        }
+    }
+}
+
+.modal-content-mobile {
+    img {
+        width: 100px !important;
+        margin-bottom: 20px;
+    }
+
+    h5 {
+        font-size: 2em !important;
+        text-align: center;
+        margin-bottom: 40px !important;
+    }
+
+    p {
+        font-size: 1.2em !important;
+    }
+}
+
+.modal {
+    max-height: 80% !important;
+
+}

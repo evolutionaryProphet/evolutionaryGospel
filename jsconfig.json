@@ -1,0 +1,75 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "allowJs": true,
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "/*": [
+        "./*"
+      ],
+      "meteor/mongo": [
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/local_collection_driver.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/collection.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/connection_options.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/doc_fetcher.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/mongo_driver.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/mongo_utils.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/observe_multiplex.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/oplog_observe_driver.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/oplog_tailing.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/oplog_v2_converter.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/polling_observe_driver.js",
+        "/home/banquo/.meteor/packages/mongo/1.16.10/web.browser/remote_collection_driver.js"
+      ],
+      "meteor/reactive-var": [
+        "/home/banquo/.meteor/packages/reactive-var/1.0.12/web.browser/reactive-var.js"
+      ],
+      "meteor/es5-shim": [
+        "/home/banquo/.meteor/packages/es5-shim/4.8.0/web.browser/client.js",
+        "/home/banquo/.meteor/packages/es5-shim/4.8.0/web.browser/console.js",
+        "/home/banquo/.meteor/packages/es5-shim/4.8.0/web.browser/cordova.js",
+        "/home/banquo/.meteor/packages/es5-shim/4.8.0/web.browser/export_globals.js",
+        "/home/banquo/.meteor/packages/es5-shim/4.8.0/web.browser/import_globals.js"
+      ],
+      "meteor/ecmascript": [
+        "/home/banquo/.meteor/packages/ecmascript/0.16.8/web.browser/ecmascript.js"
+      ],
+      "meteor/shell-server": [
+        "/home/banquo/.meteor/packages/shell-server/0.5.0/web.browser/main.js",
+        "/home/banquo/.meteor/packages/shell-server/0.5.0/web.browser/shell-server.js"
+      ],
+      "meteor/hot-module-replacement": [
+        "/home/banquo/.meteor/packages/hot-module-replacement/0.5.3/web.browser/hot-api.js",
+        "/home/banquo/.meteor/packages/hot-module-replacement/0.5.3/web.browser/client.js",
+        "/home/banquo/.meteor/packages/hot-module-replacement/0.5.3/web.browser/server.js"
+      ],
+      "meteor/react-meteor-data": [
+        "/home/banquo/.meteor/packages/react-meteor-data/2.7.2/web.browser/index.js",
+        "/home/banquo/.meteor/packages/react-meteor-data/2.7.2/web.browser/suspense/index.js"
+      ],
+      "meteor/universe:i18n": [
+        "/home/banquo/.meteor/packages/universe_i18n/2.1.0/web.browser/integrations/svelte/TranslationsCollection.js",
+        "/home/banquo/.meteor/packages/universe_i18n/2.1.0/web.browser/integrations/svelte/client.js",
+        "/home/banquo/.meteor/packages/universe_i18n/2.1.0/web.browser/integrations/svelte/reactivei18n.js",
+        "/home/banquo/.meteor/packages/universe_i18n/2.1.0/web.browser/integrations/svelte/server.js"
+      ],
+      "meteor/check": [
+        "/home/banquo/.meteor/packages/check/1.4.1/web.browser/match.js",
+        "/home/banquo/.meteor/packages/check/1.4.1/web.browser/isPlainObject.js"
+      ],
+      "meteor/session": [
+        "/home/banquo/.meteor/packages/session/1.2.1/web.browser/session.js"
+      ]
+    }
+  },
+  "typeAcquisition": {
+    "include": [
+      "meteor"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    ".meteor"
+  ]
+}
