@@ -13,6 +13,7 @@ import { Summary } from './Summary';
 import { isDesktop, isMobile } from 'react-device-detect';
 import { SlideMenu } from './slideMenu/SlideMenu';
 import { RightPanel } from './RightPannel';
+import Icon from 'react-materialize/lib/Icon';
 
 
 export const LandingPage = () => {
@@ -22,6 +23,7 @@ export const LandingPage = () => {
     const [showSummary, setShowSummary] = useState(false);
     const [visibleDiv, setVisibleDiv] = useState(false)
     const [gospelMd, setGospelMd] = useState("");
+    const [showRightPannel, setShowRightPannel] = useState(false)
     useEffect(() => {
         setShowSummary(false)
         axios({
@@ -86,10 +88,32 @@ export const LandingPage = () => {
 
                         <Gospel lang={lang} gospelMd={gospelMd} setVisibleDiv={setVisibleDiv} />
                     </div>
-                    {isDesktop && (
+                    {isDesktop ? (
                         <div className="col l3">
                             <RightPanel />
                         </div>
+                    ) : (
+                        <>
+                            {showRightPannel ? (
+                                <>
+                                    <Button onClick={() => setShowRightPannel(false)} floating large className="rightPannelBtn rightPannelBtnOpen">
+
+                                        <Icon>clear</Icon>
+                                    </Button>
+                                    <div className="rightPannelContainer">
+                                        <RightPanel />
+
+                                    </div>
+                                </>
+                            ) : (
+
+                                <Button onClick={() => setShowRightPannel(true)} floating large className="rightPannelBtn">
+                                    <img src="/img/information-348.svg" alt="" className='' />
+                                </Button>
+
+                            )}
+                        </>
+
                     )}
 
                 </div >

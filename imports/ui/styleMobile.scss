@@ -253,6 +253,46 @@
             font-style: italic;
         }
     }
+
+    .rightPannelBtn {
+        position: fixed;
+        top: 64px;
+
+        right: 10px;
+
+        * {
+            color: $main-color !important;
+        }
+
+        img {
+            width: 35px;
+            height: 35px;
+            margin-top: 10px;
+            opacity: 0.8;
+        }
+    }
+
+    .rightPannelBtnOpen {
+        right: 290px !important;
+        z-index: 12;
+    }
+
+    .rightPannelContainer {
+        width: 300px;
+        position: fixed;
+        padding-top: 20px;
+        top: 54px;
+        right: 0;
+        transition: 0.3s;
+        z-index: 10;
+        background-color: $contrasted-bg;
+        overflow-y: scroll;
+        height: calc(100vh - 56px);
+
+        .right-pannel-content {
+            padding-bottom: 200px;
+        }
+    }
 }
 
 .modal-content-mobile {
