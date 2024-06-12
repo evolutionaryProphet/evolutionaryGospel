@@ -12,6 +12,7 @@ import axios from 'axios';
 import { Summary } from './Summary';
 import { isDesktop, isMobile } from 'react-device-detect';
 import { SlideMenu } from './slideMenu/SlideMenu';
+import { RightPanel } from './RightPannel';
 
 
 export const LandingPage = () => {
@@ -69,7 +70,8 @@ export const LandingPage = () => {
 
             </div >
             {gospelMd && (
-                < div className="row mainContent">
+                < div className=" mainContent row no-margin">
+
                     {isDesktop && (
                         <div className="col l3 ">
                             <div className="Summary">
@@ -86,6 +88,7 @@ export const LandingPage = () => {
                     </div>
                     {isDesktop && (
                         <div className="col l3">
+                            <RightPanel />
                         </div>
                     )}
 
@@ -128,6 +131,7 @@ export const LandingPage = () => {
                         <p>{t("modalWelcomeText2")}</p>
                         <p>{t("modalWelcomeText3")}</p>
                     </div>
+
                 </div>
 
             </Modal>

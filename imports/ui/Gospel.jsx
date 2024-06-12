@@ -30,7 +30,7 @@ export const Gospel = ({ lang, gospelMd, setVisibleDiv }) => {
     return (
         <div className="mainContent">
 
-            <div className="row no-margin">
+            <div className="row no-margin relative">
                 <div className="col s12  gospel" onScroll={handleScroll}>
                     {!isDesktop && (
                         <div className="hand-police siteTitle" style={{ display: "inline-block", lineHeight: "64px" }}>
