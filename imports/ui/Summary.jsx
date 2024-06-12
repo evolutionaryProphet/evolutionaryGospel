@@ -37,7 +37,7 @@ export const Summary = ({ lang, gospelMd, visibleDiv }) => {
                 <div key={i}>
                     <a href={"#" + title.id} className={"summaryTitle elipsis hand-police " + (visibleDiv == title.id ? " active" : "")}>{title.title}</a>
                     {title.h2s.map((h2, j) => (
-                        <a href={"#" + h2.id} className={"subtitle elipsis " + (visibleDiv == h2.id ? " active" : "")} key={i + "-" + j} >{h2.title.substring(1)}</a>
+                        <a href={"#" + h2.id} className={"subtitle elipsis " + (visibleDiv == h2.id ? " active" : "")} key={i + "-" + j} >{j > 8 ? h2.title.substring(2) : h2.title.substring(1)}</a>
                     ))}
                 </div>
             ))}
