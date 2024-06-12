@@ -1,8 +1,16 @@
 {
     "_locale": "en",
     "siteTitle": "Evolutionary Gospel",
-    "modalWelcomeText1": "This half-hour read will allow you to explore the history of life, humanity, and Western civilization through the lens of evolution.",
-    "modalWelcomeText2": "At the crossroads of seemingly opposed realms—evolutionary biology, Judeo-Christian tradition and Nietzschean will to power—this work offers a new vision where genes, memes, and the principles of natural selection play a central role in the formation of civilizations and allows us to rethink morality and religion in a new light.",
-    "modalWelcomeText3": "It boldly aims to initiate the moral reconstruction that will enable a new civilizational rise and put an end to the nihilistic hedonism that naively asserts: \"Good is what feels good.\" and to provide an answer, perhaps even THE answer, to anyone who feels a profound loss of meaning.",
-    "closeModal": "Start reading"
+    "modalWelcomeText1": "This half-hour reading will immerse you in an exploration of the history of life, humanity, and Western civilization through the lens of evolution.",
+    "modalWelcomeText2": "At the crossroads of seemingly opposing universes—evolutionary biology, Judeo-Christian tradition, and Nietzschean will to power—this work offers a new vision where genes, memes, and the principles of natural selection play a central role in the formation of civilizations, allowing for a rethinking of morality and religion in a new light.",
+    "modalWelcomeText3": "It has the bold ambition to initiate the moral reconstruction that will allow our civilization to flourish anew and to put an end to the nihilistic hedonism that naively asserts: 'Good is what feels good.' It aims to provide an answer, perhaps even THE answer, to anyone who feels a loss of meaning deep within.",
+    "closeModal": "Start Reading",
+    "participate": "Donations",
+    "participateInfo": "Your donations help contribute to the construction of the Evolutionary Gospel and to spreading its message.",
+    "participateBtn": "Send a Donation",
+    "contribute": "Contribute",
+    "contributeInfo": "You can contribute to this work by adding details and bibliographic sources to the various verses, by offering your voice for a podcast, or by providing a translation.",
+    "contributeBtn": "GitHub",
+    "networks": "Join Us",
+    "networksBtn": ""
 }
