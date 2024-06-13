@@ -261,10 +261,13 @@
         right: 10px;
 
         * {
-            color: $main-color !important;
+            fill: $main-bg !important;
+            color: $main-bg !important;
         }
 
+        background-color: $blue-highlight-color;
         opacity: 0.8;
+        border-radius: 10px !important;
 
         img {
             width: 35px;
@@ -277,6 +280,13 @@
     .rightPannelBtnOpen {
         right: 290px !important;
         z-index: 12;
+
+        * {
+            fill: $main-bg !important;
+            color: $main-bg !important;
+        }
+
+        background-color: $blue-highlight-color;
     }
 
     .rightPannelContainer {
