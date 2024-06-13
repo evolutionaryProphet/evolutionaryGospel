@@ -1,9 +1,9 @@
 import assert from "assert";
 
-describe("evolutionaryGospel", function () {
+describe("evolutionaryParable", function () {
   it("package.json has correct name", async function () {
     const { name } = await import("../package.json");
-    assert.strictEqual(name, "evolutionaryGospel");
+    assert.strictEqual(name, "evolutionaryParable");
   });
 
   if (Meteor.isClient) {

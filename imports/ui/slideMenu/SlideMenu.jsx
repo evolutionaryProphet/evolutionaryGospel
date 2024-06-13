@@ -11,7 +11,7 @@ import { Icon } from 'react-materialize';
 const onlyZeroToNine = (n) => {
     return n > 9 ? "9+" : n;
 }
-export const SlideMenu = ({ lang, visibleDiv, gospelMd }) => {
+export const SlideMenu = ({ lang, visibleDiv, parableMd }) => {
     const t = useTranslator();
 
 
@@ -34,7 +34,7 @@ export const SlideMenu = ({ lang, visibleDiv, gospelMd }) => {
             </a>}
         >
 
-            <Summary lang={lang} gospelMd={gospelMd} visibleDiv={visibleDiv} />
+            <Summary lang={lang} parableMd={parableMd} visibleDiv={visibleDiv} />
         </SideNav>
     </div>)
 }

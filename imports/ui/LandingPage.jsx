@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { LocaleProvider } from './helpers/reactivei18n';
 import { SelectLang } from './helpers/SelectLang';
 import "./scss/materaialize/materialize.scss"
-import { Gospel } from './Gospel';
+import { Parable } from './Parable';
 import "./style.scss"
 import "./styleMobile.scss"
 import { useTranslator } from '/imports/ui/helpers/useTranslator';
@@ -22,18 +22,18 @@ export const LandingPage = () => {
     const showModal = window.localStorage.getItem('alreadyShown') !== "true"
     const [showSummary, setShowSummary] = useState(false);
     const [visibleDiv, setVisibleDiv] = useState(false)
-    const [gospelMd, setGospelMd] = useState("");
+    const [parableMd, setParableMd] = useState("");
     const [showRightPannel, setShowRightPannel] = useState(false)
     useEffect(() => {
         setShowSummary(false)
         axios({
-            url: '/gospel/gospel_' + lang.slice(0, 2) + '.md', //your url
+            url: '/parable/parable_' + lang.slice(0, 2) + '.md', //your url
             method: 'GET',
             responseType: 'blob', // important
         }).then((response) => {
 
             response.data.text().then(res => {
-                setGospelMd(res)
+                setParableMd(res)
 
                 window.setTimeout(() => {
                     setShowSummary(true)
@@ -48,7 +48,7 @@ export const LandingPage = () => {
     return (
         <>
             {!isDesktop && showSummary && (
-                <SlideMenu lang={lang} visibleDiv={visibleDiv} gospelMd={gospelMd} />
+                <SlideMenu lang={lang} visibleDiv={visibleDiv} parableMd={parableMd} />
             )}
             <div id="landingHead" className="navbar-fixed ">
                 <nav>
@@ -71,13 +71,13 @@ export const LandingPage = () => {
 
 
             </div >
-            {gospelMd && (
+            {parableMd && (
                 < div className=" mainContent row no-margin">
 
                     {isDesktop && (
                         <div className="col l3 ">
                             <div className="Summary">
-                                {showSummary && <Summary lang={lang} gospelMd={gospelMd} visibleDiv={visibleDiv} />}
+                                {showSummary && <Summary lang={lang} parableMd={parableMd} visibleDiv={visibleDiv} />}
                             </div>
 
                         </div>
@@ -86,7 +86,7 @@ export const LandingPage = () => {
                     <div className="col l6">
 
 
-                        <Gospel lang={lang} gospelMd={gospelMd} setVisibleDiv={setVisibleDiv} />
+                        <Parable lang={lang} parableMd={parableMd} setVisibleDiv={setVisibleDiv} />
                     </div>
                     {isDesktop ? (
                         <div className="col l3">

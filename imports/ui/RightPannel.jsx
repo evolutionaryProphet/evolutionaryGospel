@@ -11,7 +11,7 @@ export const RightPanel = ({ }) => {
 
             <h6 className='hand-police'>{t("participate")}</h6>
             <p>{t("participateInfo")}</p>
-            <Button className='flex flex-middle' flat large href="https://fr.tipeee.com/evolutionary-gospel/" node="a">
+            <Button className='flex flex-middle' flat large href="https://fr.tipeee.com/evolutionary-parable/" node="a">
                 <img src="/img/money.svg" alt="" />
                 <div className="flex-auto hand-police">
                     {t("participateBtn")}
@@ -21,7 +21,7 @@ export const RightPanel = ({ }) => {
             <br />
             <h6 className='hand-police'>{t("contribute")}</h6>
             <p>{t("contributeInfo")}</p>
-            <Button className='flex flex-middle' flat large href="https://github.com/evolutionaryProphet/evolutionaryGospel" node="a">
+            <Button className='flex flex-middle' flat large href="https://github.com/evolutionaryProphet/evolutionaryParable" node="a">
                 <img src="/img/Octicons-mark-github.svg" alt="" />
                 <div className="flex-auto hand-police ">
                     {t("contributeBtn")}
@@ -41,7 +41,7 @@ export const RightPanel = ({ }) => {
                     Telegram
                 </div>
             </Button>
-            <Button className='flex flex-middle' flat large href="mailto:contact@evolutionarygospel.com" node="a">
+            <Button className='flex flex-middle' flat large href="mailto:contact@evolutionaryparable.com" node="a">
                 <img src="/img/icons_554071.svg" alt="" />
                 <div className="flex-auto hand-police">
                     Mail

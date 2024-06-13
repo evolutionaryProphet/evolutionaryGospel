@@ -15,7 +15,7 @@ function isScrolledIntoView(el) {
     //isVisible = elemTop < window.innerHeight && elemBottom >= 0;
     return isVisible;
 }
-export const Gospel = ({ lang, gospelMd, setVisibleDiv }) => {
+export const Parable = ({ lang, parableMd, setVisibleDiv }) => {
     const t = useTranslator();
     const handleScroll = (e) => {
         const rawList = document.getElementsByClassName("title")
@@ -31,7 +31,7 @@ export const Gospel = ({ lang, gospelMd, setVisibleDiv }) => {
         <div className="mainContent">
 
             <div className="row no-margin relative">
-                <div className="col s12  gospel" onScroll={handleScroll}>
+                <div className="col s12  parable" onScroll={handleScroll}>
                     {!isDesktop && (
                         <div className="hand-police siteTitle" style={{ display: "inline-block", lineHeight: "64px" }}>
                             {t("siteTitle")}
@@ -52,7 +52,7 @@ export const Gospel = ({ lang, gospelMd, setVisibleDiv }) => {
                                     },
                                 },
                             },
-                        }}>{gospelMd}</Markdown>
+                        }}>{parableMd}</Markdown>
                 </div>
             </div>
 

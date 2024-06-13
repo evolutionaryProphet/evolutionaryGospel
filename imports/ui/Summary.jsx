@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { isDesktop } from 'react-device-detect';
 import PerfectScrollbar from 'react-perfect-scrollbar';
-export const Summary = ({ lang, gospelMd, visibleDiv }) => {
+export const Summary = ({ lang, parableMd, visibleDiv }) => {
     const [titleList, setTitleList] = useState([])
 
     useEffect(() => {
