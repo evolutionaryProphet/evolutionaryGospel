@@ -11,7 +11,7 @@ export const RightPanel = ({ }) => {
 
             <h6 className='hand-police'>{t("participate")}</h6>
             <p>{t("participateInfo")}</p>
-            <Button className='flex flex-middle' flat large href="https://fr.tipeee.com/evolutionary-parable/" node="a">
+            <Button className='flex flex-middle' flat large href="https://fr.tipeee.com/evolutionary-gospel/" node="a">
                 <img src="/img/money.svg" alt="" />
                 <div className="flex-auto hand-police">
                     {t("participateBtn")}
@@ -21,7 +21,7 @@ export const RightPanel = ({ }) => {
             <br />
             <h6 className='hand-police'>{t("contribute")}</h6>
             <p>{t("contributeInfo")}</p>
-            <Button className='flex flex-middle' flat large href="https://github.com/evolutionaryProphet/evolutionaryParable" node="a">
+            <Button className='flex flex-middle' flat large href="https://github.com/evolutionaryProphet/evolutionaryGospel" node="a">
                 <img src="/img/Octicons-mark-github.svg" alt="" />
                 <div className="flex-auto hand-police ">
                     {t("contributeBtn")}
@@ -49,7 +49,7 @@ export const RightPanel = ({ }) => {
             </Button>
             <div style={{ margin: "30px 0" }}><hr />
             </div>
-            <h6 className="titlePannel hand-police" >{t("version")} : 1.0 - 06/2024</h6>
+            <h6 className="titlePannel hand-police" >{t("version")} : 1.1 - 06/2024</h6>
             <p><i>Creative Commons Attribution-NonCommercial 4.0 International License</i></p>
 
         </div>
