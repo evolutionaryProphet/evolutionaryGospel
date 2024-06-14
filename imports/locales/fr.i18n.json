@@ -12,5 +12,8 @@
     "contributeInfo": "Vous pouvez contribuer à cet ouvrage en apportant précisions et sources bibliographiques aux differents versets, en offrant votre voix pour en proposer un podcast, ou encore en offrant une traduction dans votre langue.",
     "contributeBtn": "Github",
     "networks": "Nous (re)joindre",
-    "networksBtn": ""
+    "networksBtn": "",
+    "footerThanks": "Merci pour votre lecture.",
+    "footerInfo": "Si cette parabole vous a apporté, vous pouvez nous rétribuer et nous encourager avec vos dons, et poursuivre l'aventure en nous contactant",
+    "networksInfo": "partagez nous vos réflexions, vos remarques, vos remerciements"
 }

@@ -256,7 +256,7 @@
 
     .rightPannelBtn {
         position: fixed;
-        top: 64px;
+        bottom: 15px;
 
         right: 10px;
 
@@ -280,6 +280,7 @@
     .rightPannelBtnOpen {
         right: 290px !important;
         z-index: 12;
+        top: 64px !important;
 
         * {
             fill: $minus-color !important;

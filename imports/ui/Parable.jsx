@@ -3,6 +3,8 @@ import Markdown from 'markdown-to-jsx'
 import axios from 'axios';
 import { isDesktop, isMobile } from 'react-device-detect';
 import { useTranslator } from '/imports/ui/helpers/useTranslator';
+import { Footer } from './Footer';
+
 
 function isScrolledIntoView(el) {
     var rect = el.getBoundingClientRect();
@@ -53,6 +55,8 @@ export const Parable = ({ lang, parableMd, setVisibleDiv }) => {
                                 },
                             },
                         }}>{parableMd}</Markdown>
+                    <Footer className="footer" />
+
                 </div>
             </div>
 
