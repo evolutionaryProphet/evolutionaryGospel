@@ -158,7 +158,7 @@
 1. And the civilization, which once illuminated the world with its splendor, was on the verge of collapse under the weight of its own contradictions, gnawed from within by a deep self-hatred, threatened from without by civilizations that had managed to withstand this nihilistic wave because they had not had to kill their god in the name of science.
 1. Rivals began to shake the once-acquired Western hegemony, taking advantage of the collapse. Economically, militarily, and demographically, all of the West's contradictions were attacked by its former vassals.
 
-# **Social Reconstruction**
+# **S**ocial Reconstruction
 
 ## **1**The Conscious Alliance: The Science of Our Civilization’s Glory
 
@@ -347,7 +347,7 @@
 1. This fascination with the perfection of nature's and society's designs, their perfect adaptation to need, minimalist and coherent, parsimonious and elegant, is the manifestation of our love for life.
 1. This is what we call beauty, and we must strive for art, cultural, and civilizational manifestations to celebrate this beauty, this demanding quest for perfection in design requiring discipline and connection to all dimensions of existence.
 
-# **Our Church**
+# **O**ur Church
 
 ## **1** The Mission of Our Church
 
