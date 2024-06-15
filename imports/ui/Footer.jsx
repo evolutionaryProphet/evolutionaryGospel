@@ -9,15 +9,15 @@ export const Footer = ({ }) => {
     const t = useTranslator();
 
     return (
-        <div className="Footer">
+        <div className="Footer small-shadow">
 
             <h5 className="center-align hand-police">{t("footerThanks")}</h5>
 
-            <br />
+
             <br />
             <p>{t("footerInfo")}</p>
             <br />
-            <br />
+
             <div className="row">
                 <div className="col s12 l6  small-padding">
                     <h6 className='hand-police'>{t("participate")}</h6>

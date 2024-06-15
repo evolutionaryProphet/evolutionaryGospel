@@ -298,7 +298,11 @@
 }
 
 .Footer {
-    margin-top: 200px;
+    margin-top: 100px;
+    padding: 40px;
+    background-color: $contrasted-bg;
+
+
 
     .flex {
         width: 100% !important;
