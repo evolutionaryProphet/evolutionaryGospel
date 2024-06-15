@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { isDesktop } from 'react-device-detect';
 import PerfectScrollbar from 'react-perfect-scrollbar';
-export const Summary = ({ lang, parableMd, visibleDiv }) => {
+export const Summary = ({ lang, gospelMd, visibleDiv }) => {
     const [titleList, setTitleList] = useState([])
 
     useEffect(() => {
@@ -30,7 +30,7 @@ export const Summary = ({ lang, parableMd, visibleDiv }) => {
     return (
         <div className="Summary-content relative">
             {
-                !isDesktop && (<img src={"/img/logo.png"} alt="" className="responsive-img logoTitle z-depth-2 center-align small-margin small padding" />)
+                !isDesktop && (<img src={"/img/logo-old.png"} alt="" className="responsive-img logoTitle z-depth-2 center-align small-margin small padding" />)
 
             }
             {titleList.map((title, i) => (

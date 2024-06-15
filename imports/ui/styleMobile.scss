@@ -39,13 +39,13 @@
         overflow: hidden;
     }
 
-    .parable {
+    .gospel {
         padding-bottom: 500px !important;
         height: calc(100vh - 64px);
         overflow-y: scroll;
     }
 
-    .parable,
+    .gospel,
     .modal {
         * {
             color: $main-color;
@@ -185,7 +185,7 @@
     /* Firefox */
 
     /* Chrome, Edge, and Safari */
-    .parable::-webkit-scrollbar {
+    .gospel::-webkit-scrollbar {
         width: 18px;
     }
 
@@ -204,7 +204,7 @@
         border: 3px solid $main-bg;
     }
 
-    .parable::-webkit-scrollbar-thumb {
+    .gospel::-webkit-scrollbar-thumb {
         background-color: rgba($focus-color, 0.5);
         border-radius: 10px;
         height: 100px !important;

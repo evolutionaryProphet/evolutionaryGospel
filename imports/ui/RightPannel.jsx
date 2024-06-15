@@ -41,7 +41,7 @@ export const RightPanel = ({ }) => {
                     Telegram
                 </div>
             </Button>
-            <Button className='flex flex-middle' flat large href="mailto:contact@evolutionaryparable.com" node="a">
+            <Button className='flex flex-middle' flat large href="mailto:contact@evolutionarygospel.com" node="a">
                 <img src="/img/icons_554071.svg" alt="" />
                 <div className="flex-auto hand-police">
                     Mail

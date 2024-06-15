@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { LocaleProvider } from './helpers/reactivei18n';
 import { SelectLang } from './helpers/SelectLang';
 import "./scss/materaialize/materialize.scss"
-import { Parable } from './Parable';
+import { Gospel } from './Gospel';
 import "./style.scss"
 import "./styleMobile.scss"
 import { useTranslator } from '/imports/ui/helpers/useTranslator';
@@ -22,18 +22,18 @@ export const LandingPage = () => {
     const showModal = window.localStorage.getItem('alreadyShown') !== "true"
     const [showSummary, setShowSummary] = useState(false);
     const [visibleDiv, setVisibleDiv] = useState(false)
-    const [parableMd, setParableMd] = useState("");
+    const [gospelMd, setGospelMd] = useState("");
     const [showRightPannel, setShowRightPannel] = useState(false)
     useEffect(() => {
         setShowSummary(false)
         axios({
-            url: '/parable/parable_' + lang.slice(0, 2) + '.md', //your url
+            url: '/gospel/gospel_' + lang.slice(0, 2) + '.md', //your url
             method: 'GET',
             responseType: 'blob', // important
         }).then((response) => {
 
             response.data.text().then(res => {
-                setParableMd(res)
+                setGospelMd(res)
 
                 window.setTimeout(() => {
                     setShowSummary(true)
@@ -48,13 +48,13 @@ export const LandingPage = () => {
     return (
         <>
             {!isDesktop && showSummary && (
-                <SlideMenu lang={lang} visibleDiv={visibleDiv} parableMd={parableMd} />
+                <SlideMenu lang={lang} visibleDiv={visibleDiv} gospelMd={gospelMd} />
             )}
             <div id="landingHead" className="navbar-fixed ">
                 <nav>
                     <div className="nav-wrapper">
                         <a href="#" className="brand-logo">
-                            <img src={"/img/logo.png"} alt="" className="responsive-img logoTitle z-depth-2" />
+                            <img src={"/img/logo-old.png"} alt="" className="responsive-img logoTitle z-depth-2" />
                             {isDesktop && (
                                 <div className="hand-police siteTitle" style={{ display: "inline-block", lineHeight: "64px" }}>
                                     {t("siteTitle")}
@@ -71,13 +71,13 @@ export const LandingPage = () => {
 
 
             </div >
-            {parableMd && (
+            {gospelMd && (
                 < div className=" mainContent row no-margin">
 
                     {isDesktop && (
                         <div className="col l3 ">
                             <div className="Summary">
-                                {showSummary && <Summary lang={lang} parableMd={parableMd} visibleDiv={visibleDiv} />}
+                                {showSummary && <Summary lang={lang} gospelMd={gospelMd} visibleDiv={visibleDiv} />}
                             </div>
 
                         </div>
@@ -86,7 +86,7 @@ export const LandingPage = () => {
                     <div className="col l6">
 
 
-                        <Parable lang={lang} parableMd={parableMd} setVisibleDiv={setVisibleDiv} />
+                        <Gospel lang={lang} gospelMd={gospelMd} setVisibleDiv={setVisibleDiv} />
                     </div>
                     {isDesktop ? (
                         <div className="col l3">
@@ -145,7 +145,7 @@ export const LandingPage = () => {
             >
                 <div className={"row " + !isDesktop && "modal-content-mobile"}>
                     <div className="col s12 l3 center-align">
-                        <img src={"/img/logo.png"} alt="" className="responsive-img  z-depth-2" />
+                        <img src={"/img/logo-old.png"} alt="" className="responsive-img  z-depth-2" />
                     </div>
                     <div className="col s12 l9">
                         <h5 className="hand-police siteTitleModal no-margin">
