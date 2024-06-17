@@ -18,7 +18,7 @@
 1. Et l'homme écouta sa nature, recherchant le plaisir et fuyant la douleur, écoutant son empathie et son appétit pour évoluer au sein de sa tribu, vivant selon les lois simples inscrites dans son être, écoutant les murmures de ses instincts, guidé par le désir de vivre et de prospérer.
 1. Et il n'y avait point de surpeuplement, car la terre était vaste et généreuse. L'homme n'avait qu'à marcher plus loin pour découvrir des terres nouvelles, riches en promesses.
 1. Et les tribus se rencontraient parfois, échangeant des amours, des histoires et des savoirs, mais chacune trouvait toujours un endroit vierge où s'établir et continuer leur vie fertile, et les conflits étaient rares.
-1. Et il advint que l'homme prospéra, vivant des millénaires dans cette harmonie, libre et insouciant, maître de son propre jardin d'Éden. Perfection du design, incarnation de l’adaptation à l'environnement, de la gloire selon la tradition religieuse, ou encore du fitness selon la biologie évolutive.
+1. Et il advint que l'homme prospéra, vivant des millénaires dans cette harmonie, libre et insouciant, maître de son propre jardin d'Éden. Perfection du design, incarnation de l’adaptation à l'environnement, de la gloire selon la tradition religieuse, ou encore "fitness", qui signifie valeur sélective ou valeur adaptative selon le terme scientifique de la biologie évolutive.
 
 ## **3** La Chute de l'Homme du Jardin du Paléolithique
 
@@ -40,15 +40,11 @@
 
 ***
 
-1. Les civilisations furent soumises à une sélection implacable, chaque génération apportant son lot de défis, chaque crise testant la robustesse et la pertinence des idées transmises par les anciens.
+13. Les civilisations furent soumises à une sélection implacable, chaque génération apportant son lot de défis, chaque crise testant la robustesse et la pertinence des idées transmises par les anciens.
 1. Et les civilisations qui prospéraient étaient celles dont les mèmes s'adaptaient le mieux aux conditions changeantes, trouvant l'équilibre entre ordre et liberté, discipline et innovation. Les autres tombèrent dans l'oubli, leurs mèmes se perdant dans les sables du temps, leurs sacrifices effacés par l'indifférence du destin.
-11. Et l'homme entra dans une nouvelle ère, il devait comme avant naviguer entre les souffrances de la nature, les catastrophes, les maladies et les mauvaises récoltes, cherchant toujours à échapper aux épreuves que la vie lui imposait.
+1. Et l'homme entra dans une nouvelle ère, il devait comme avant naviguer entre les souffrances de la nature, les catastrophes, les maladies et les mauvaises récoltes, cherchant toujours à échapper aux épreuves que la vie lui imposait.
 1. Mais il aurait désormais aussi à faire face à la tyrannie des hommes, car le pouvoir nécessaire pour assurer la collaboration, pour réprimer l’expression naturelle des désirs et des peurs, autrefois adapté à la vie simple et sauvage et assurant aujourd’hui l’ordre et la prospérité de la cité, contenait toujours en lui-même les germes de l'abus et de l'excès : la promesse de l'ordre contenant la menace de l'oppression.
 1. Et l'homme regarda en arrière, vers le jardin du paléolithique, avec nostalgie et regret, car il se souvenait de la liberté et de l'innocence perdues.
-1. L'être humain venait donc de passer d’une ère duelle, où la survie dépendait de l’adaptation de ses gènes dans son environnement, à une ère basée sur une trinité, une réunion sainte qui serait désormais l’alpha et l’oméga de son existence :
-1. l’univers causal, le Père,
-1. Les allèles de nos gènes, le Fils,
-1. Les productions de l’esprit qui nous guident vers la discipline lumineuse qui leur offrira la vie éternelle, le Saint-Esprit.
 
 # **H**istoire occidentale
 
@@ -66,9 +62,10 @@
 7. La vérité ne prit la forme de la vérifiabilité empirique, du consensus scientifique, de la logique rationnelle et cartésienne qu’en raison du fait que ce furent ces idées scientifiques qui donnèrent le plus d’efficacité pour agir sur le réel, vaincre l’adversaire, puis imposer le point de vue cartésien comme vérité.
 1. Les idées vaincues s'effacent devant les vérités des vainqueurs. Ainsi, les idées qui devinrent des vérités furent en ce temps comme aujourd’hui celles qui conduisirent à la victoire, qui façonnèrent des sociétés fortes et cohérentes, fécondes et prospères, et qui résistèrent à l'épreuve du temps et des adversités.
 1. Le mouvement même de la vie, le caractère sacré de la volonté d’exister par-dessus tout, fit advenir des vérités à portée universelle, et ces vérités universelles portaient en elles la volonté de l'existence, l'affirmation de la vie dans son caractère sacré de puissance en expansion.
-1. La quête de vérité est ainsi une quête de puissance.
+1. La quête de vérité est ainsi une quête de puissance : la verité c'est la parole du vainqueur.
 1. La vérifiabilité empirique, la connaissance des rapports causaux du monde n’est que le moyen, pas toujours emprunté d’ailleurs, pour obtenir la puissance : l’histoire est riche d’obscurantismes triomphants à imposer leurs vérités.
-1. Ce n’est donc que parce que l'Occident tire sa puissance de la connaissance scientifique du monde que nous avons une adéquation contemporaine entre vérité et connaissance scientifique du monde. Si demain cette puissance est offerte par la rigueur morale d’un Islam conquérant et fertile, alors la vérité deviendra tout autre.
+1. Ce n’est donc que parce que l'Occident tire sa puissance de la connaissance scientifique du monde que nous avons une adéquation contemporaine entre vérité et connaissance scientifique du monde. 
+1. Si demain cette puissance est offerte par la rigueur morale d’un Islam conquérant et fertile, alors la vérité deviendra tout autre, et Allah remplacera La vérité de la connaissance scientifique qui elle meme remplaça la vérité du Christ qui elle meme remplaça La vérité de Jupiter et Mars, qui elle même remplaça La vérité des divinités payennes et la parole du chef de la tribue.
 
 ## **2** Tradition judéo-chrétienne
 
@@ -336,12 +333,13 @@
 4. Aussitôt que nous en avons la force, notre premier chantier est de combattre l’extinction. Offrons à notre civilisation précisément ce que l’hédonisme nihiliste postmoderne fantasme comme ennemi imaginaire de sa jouissance sans entrave. Il y a bien plus que l'archaïsme obscurantiste ou la posture strictement réactionnaire d’une ancienne époque dans tout ce qu’ils souhaitent censurer et annuler : il y a précisément le futur qui terrassera leur règne.
 5. Observons les peurs, les inquiétudes et les cris d’émoi du postmodernisme nihiliste et épousons aussi près que possible le portrait robot de cette vision qui le hante, car notre vitalité est bien le négatif de leurs projets.
 6. Laissons-les dessiner les contours de notre être, utilisons le trait forcé de leur caricature pour être précisément le père-fouettard qu’ils redoutent.
-7. Notre doctrine sera violente avec la morbidité et ne s’en cachera pas, car elle aime la vie au point d’accepter de se montrer cruelle pour elle.
-8. Tel une mère ours défendant sa progéniture menacée, nous souhaitons un avenir à notre civilisation au point de déchaîner la part d’ombre qui sommeille en nous. Et nous n’allons pas être gentils :
+7. Soyons ceux qui s’exposent à l’hostilité et à la violence, car ils savent que dans le courage de troubler la douce décadence, c’est la gloire de leur peuple qu’ils font advenir. Nous allons devoir prendre des risques.
+8. Notre doctrine sera violente avec la morbidité et ne s’en cachera pas, car elle aime la vie au point d’accepter de se montrer cruelle pour elle.
+
 
 ## **2** Abolir le nihilisme
 
-1. Soyons ceux qui s’exposent à l’hostilité et à la violence, car ils savent que dans le courage de troubler la douce décadence, c’est la gloire de leur peuple qu’ils font advenir. Nous allons devoir prendre des risques.
+1. Tel une mère ours défendant sa progéniture menacée : l'avenir de ses gènes, nous souhaitons un avenir à notre civilisation au point de déchaîner la part d’ombre qui sommeille en nous. Et nous n’allons pas être gentils :
 2. Soyons patriarches et moralisateurs, soyons la culpabilité de ce monde qui force à ouvrir les yeux de chacun sur ses manquements et faiblesses.
 3. Soyons de ceux qui ne tolèrent plus, soyons l’exigence, ferme et implacable, qui ne se laisse pas apitoyer.
 4. Soyons ceux qui n'accordent ni crédit ni mérite à rien qui n’exige ni effort ni discipline.
@@ -370,7 +368,7 @@
 1. Faisons l’effort de discipliner nos cœurs pleins d’empathie afin de museler celle-ci. Apporter ce message avec l’impact suffisant pour faire bouger les lignes nécessitera d’endurcir nos cœurs, mais ne sombrons pas à notre tour dans le nihilisme de la tyrannie.
 2. Notre ambition n’est pas la vengeance. Quiconque œuvre à ce travail moralisateur doit libérer son âme de la rancœur, de l’envie de causer la souffrance par revanche des souffrances passées. Pardonnons les offenses de ce nihilisme qui nous a ôté parfois l’espoir, Pardonnons-le de nous avoir fait glisser à lui à certains moments de nos existences.
 3. Nous devons rendre l’abandon dans le nihilisme hédoniste postmoderne inconfortable au point qu’il devienne inhabitable, brûler les éléments de son confort, couper le robinet de ses drogues, détruire ses moyens de se distraire du gouffre de son propre mode de vie, lui renvoyer quotidiennement l’image en miroir de la déchéance dont il fait preuve. 
-4. Nous devons faire de ce suicide collectif envisagé la fin la plus douloureuse et violente possible, afin que la terreur qu’elle inspire ramène vers la vie. Obligeons les ennemis de la vie à se suicider dans des bains de soude, imposons que les cliniques d’euthanasie ne proposent que le fait d’être dévoré par des rats ou brûlés vifs dans des bains d’acide si cela est nécessaire pour en sauver le maximum.
+4. Nous devons faire de ce suicide collectif envisagé la fin la plus douloureuse et violente possible, afin que la terreur qu’elle inspire ramène vers la vie. Obligeons les ennemis de la vie à se suicider dans des bains de soude, imposons que les cliniques d’euthanasie ne proposent que le fait d’être dévoré par des rats ou brûlés vifs si cela est nécessaire pour en sauver le maximum.
 5. Mais ouvrons aussi grands nos bras et nos cœurs pour accueillir dans notre église ceux qui feront le choix de la responsabilité, tendons nos mains pour qu'à chacun le choix de la rédemption soit à toute heure et en tout lieu possible.
 6. Soyons l’oreille sensible et l’épaule réconfortante qui accueillera les pleurs de ceux qui feront le choix qui mène à la vie, le choix de regarder le désastre de leurs existences hédonistes et égoïstes avec lucidité, culpabilité et écœurement.
 7. Offrons à tous ceux de notre peuple la possibilité de se tourner vers la gloire de leurs gènes et de leur civilisation, offrons-leur le réconfort et le soutien qui leur permettront de remettre en ordre leur vie et de remettre en marche leurs corps afin qu’ils puissent bientôt œuvrer à nos gloires communes.
@@ -384,17 +382,17 @@
 3. Offrons plutôt une pratique permettant l’influence et le réseau, la promotion de nos valeurs et l’encouragement de ceux qui les portent.
 4. Le terrain est libre, la voie est dégagée, l’aspiration de millions de jeunes gens à un cadre structurant leurs efforts et donnant une direction à leur discipline est présente. Ils sont divisés en différents partis politiques qui se chamaillent sur les questions stratégiques sans outil pour fédérer leur foi commune.
 5. Ils sont déçus par la mollesse du culte chrétien prônant le renoncement humble à influencer fermement les choix d’une civilisation pourtant en naufrage.
-6. Ils sont prêts à de longues marches mais tournent en rond sur des boules de randonnée allant d’un point A à un point A. Ils sont déjà forts d’une discipline rigoureuse qui se dissipe sur les tapis des salles de sports plutôt qu'à œuvrer pour nos gloires communes.
+6. Ils sont prêts à de longues marches mais tournent en rond sur des boucles de randonnée allant d’un point A à un point A. Ils sont déjà forts d’une discipline rigoureuse qui se dissipe sur les tapis des salles de sports plutôt qu'à œuvrer pour nos gloires communes.
 7. Ils ont la rage de gagner mais n'obtiennent que des chiffres sur un compte en banque digital. Ils sont prêts à des heures acharnées d'entraînements rigoureux à s'exercer à la vie ou au combat sur des jeux vidéo à des âges où l’on doit déjà livrer bataille.
 8. Ils sombrent dans la dépression de ne trouver aucune direction propice pour exercer leur discipline et se suicident, rongés par la perte de sens et l’inutilité alors qu’ils ont la force de faire rayonner notre gloire commune.
-9. Ce peuple est prêt, courageux, combatif, fort, mais meurt de désœuvrement. Offrons-lui l’objectif vers lequel faire tendre sa foi.
+9. Ce peuple est prêt, courageux, combatif, fort, mais meurt de désœuvrement. Offrons-lui l’objectif vers lequel faire tendre sa discipline et sa foi.
 
 ## **5** Une téléologie en mouvement
 
 1. Malgré les progrès de la technique et de la retranscription fidèle des écritures, nous devons œuvrer à ce que cet évangile soit malléable. C’est la raison pour laquelle son premier support est numérique et accepte les contributeurs comme du code open source.
 2. Dans la mesure où il considère la reconstruction sociale d’une religion de la gloire de l’occident comme un travail d'ingénierie, autant nous donner les outils de cette ingénierie. Vous retrouverez donc le lien vers la plateforme gérant la contribution à cet évangile sur le site.
 3. Vos contributions sont bienvenues si elles s’inscrivent dans le cadre de cet évangile : “la volonté de faire émerger une construction sociale d’ordre morale et religieuse visant l’optimisation du fitness de la civilisation occidentale”.
-4. La clarté et la justesse de l’analyse historique de la condition humaine de l’homme occidental jusqu'à nos jours présentée dans cet évangile sera sans doute remodelée à mesure que des archéologues, historiens, généticiens, ethnologues viendront compléter, éclaircir et sourcer cet évangile pour améliorer encore le récit de l’arc historique de la civilisation occidentale jusqu'à nos jours.
+4. La clarté et la justesse de l’analyse historique de la condition humaine de l’homme occidental jusqu'à nos jours présentée dans cet évangile sera sans doute remodelée à mesure que des archéologues, historiens, généticiens, ethnologues viendront compléter, éclaircir et sourcer cet évangile pour améliorer encore le récit de l’arc historique de la civilisation occidentale.
 5. Les dogmes seront mis à jour en fonction des évolutions de la recherche scientifique en psychologie individuelle, psychologie évolutionniste, psychologie sociale, en théorie des jeux, en biologie, mais aussi avec la prise en considération de l’impact des premières mesures de nos dogmes sur la société dans une démarche d’amélioration continue de notre gloire.
 6. La façon d'œuvrer de notre église, son organisation, sa structuration sera elle aussi soumise aux changements, avec le pragmatisme de l’efficience en ligne de mire, cet évangile n’en est que la première pierre.
 
@@ -405,7 +403,7 @@
 2. Cependant, l'Église chrétienne à elle seule ne peut porter notre combat, nos dogmes, ni incarner l'élan de notre culte. Son autoflagellation culpabilisante, son sens de la mesure dépourvu d'audace, son attente naïve de l'espérance, les vestiges d'obscurantisme qu'elle traîne encore et son humble silence ne peuvent constituer le contrepoids qui nous sauvera du naufrage.
 3. Espérons que l’Église nous pardonnera le caractère blasphématoire de cet évangile. Soyons assurés qu’au moins elle le tolérera après avoir toléré tant et tant.
 4. Pour ceux dont cet évangile résonne et qui souhaitent en faire leur guide, le premier travail est de le partager, d’en parler autour de soi, de devenir des évangélisateurs. Si ces mots vous ont touché, vous ressentirez le besoin de changer votre vie pour l'aligner, chacun à votre manière, sur la recherche de la gloire.
-5. Avant même de mettre de l'ordre dans votre vie pour lutter contre le nihilisme ou pour agir, un premier objectif pourrait être de partager cet évangile. Sans paresse, résolument, avec la conviction qu'une action comme la vôtre, répétée par une communauté de croyants, aura un impact à court terme. Fixez-vous un objectif ambitieux : atteindre 3, 5, 10, 20 personnes ? Soyez ambitieux.
+5. Avant même de mettre de l'ordre dans votre vie pour lutter contre le nihilisme ou pour agir, un premier objectif pourrait être de partager cet évangile. Sans paresse, résolument, avec la conviction qu'une action comme la vôtre, répétée par une communauté de croyants, aura un impact à court terme. Fixez-vous un objectif ambitieux : 3, 5, 10, 20 personnes ? Soyez ambitieux.
 
 ***
 
